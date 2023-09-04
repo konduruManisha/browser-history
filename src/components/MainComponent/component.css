@@ -5,10 +5,11 @@
   margin: 0.5% 1%;
   align-items: center;
   width: 100vh;
-  padding: 0px;
+  padding: 0px 6%;
 }
 .sub {
   display: flex;
+  flex-direction: row;
   align-items: center;
   margin: 0px 5%;
 }
@@ -19,7 +20,7 @@
   width: 90%;
   align-items: center;
 }
-.popo {
+.poo {
   width: 3vw;
   height: 3vw;
 }
